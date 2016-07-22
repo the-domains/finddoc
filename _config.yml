@@ -1,0 +1,14 @@
+layout_spectrum: 0.07384748850017786
+typography_spectrum: 0.2872312036342919
+color:
+  brandStrength: 0.5281652729026973
+  lightness: 0.6679772839415818
+  saturation: 0.6218644776381552
+  rhythmicContrast: 0.25988057209178805
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: FindDoc
