@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Eureka]]></title>
         <description><![CDATA[Eureka]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/finddoc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 00:35:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 00:35:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/finddoc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[冠心病年輕化 早發現早治療 - FindDoc]]></title>
+            <description><![CDATA[<article><h1>冠心病年輕化 早發現早治療 - FindDoc</h1><p>很多人都錯誤地認為冠心病是中老年人的專利，年輕人並不會患冠心病。冠心病確實多在中年或之後出現，男性患病的風險較女性高。但近年港人的飲食模式愈來愈西化、缺乏運動、吸煙，再加上糖尿病、高血壓、高膽固醇、有心臟病家族史等風險因素，已令年輕患者的個案愈來愈多。 ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e80b879108b095884287f423747f884/noop.jpg?input=https%3A%2F%2Fd1jffk94vhkkn9.cloudfront.net%2Fuploads%2Fimages%2Fblogs%2F25%2Fimg_1_zh-hk_1469095368.jpg"></article>]]></description>
+            <link>https://www.finddoc.com/zh-hk/blogs/info/%E5%86%A0%E5%BF%83%E7%97%85%E5%B9%B4%E8%BC%95%E5%8C%96---%E6%97%A9%E7%99%BC%E7%8F%BE%E6%97%A9%E6%B2%BB%E7%99%82-25</link>
+            <guid isPermaLink="false">755faba0-3742-43a3-9716-b079821c7255</guid>
+            <pubDate>Mon, 25 Jul 2016 00:35:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FindDoc: 諮詢陳普來醫生有關冠心病的問題。問題是冠心病年輕化 早發現早治療(心臟科)]]></title>
             <description><![CDATA[<article><h1>FindDoc: 諮詢陳普來醫生有關冠心病的問題。問題是冠心病年輕化 早發現早治療(心臟科)</h1><p>(一) 冠心病是老年人的問題，年輕人就不需留意？哪些因素會增加患冠心病的風險？(二) 冠心病在病發前會有先兆嗎？常見的病徵有哪些呢？(三) 如何檢查和診斷冠心病？檢查的準確度高嗎？(四) 有什麽方法可治療冠心病？冠心病能否根治？ http://www.finddoc.com/zh-hk/finddoctv/info/myles-chan-cardiology-445</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a57c7273244797e91e62de3b1ba15db8/noop.jpg?input=http%3A%2F%2Fd1jffk94vhkkn9.cloudfront.net%2Fuploads%2Fimages%2Faskdoc%2F445%2F14675997869479.jpg"></article>]]></description>
